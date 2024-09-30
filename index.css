@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    font-family:cursive;
+}
+h1{
+    text-align: center;
+}
+.title{
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+}
+
+ 
